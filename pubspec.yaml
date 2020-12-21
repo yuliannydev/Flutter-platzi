@@ -1,5 +1,5 @@
 name: flutter_platzi
-description: A new Flutter project.
+description: Mi primera App con el curso de Flutter - Platzi con Anahí Salgado.
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `pub publish`. This is preferred for private packages.
@@ -74,3 +74,22 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
+  assets:
+    - assets/img/hq.png
+    - assets/img/joker.png
+    - assets/img/ww.png
+    - assets/img/images1.png
+    - assets/img/batvssup.png
+    - assets/img/bs1.png
+    - assets/img/bs2.png
+    - assets/img/bs3.png
+    - assets/img/bs4.png
+    - assets/img/bs5.png
+    - assets/img/ng.png
+    - assets/img/robin.png
+    - assets/img/Ra's-al-Ghul.png
+
+  fonts:
+    - family: Lato
+      fonts:
+      - asset: fonts/Lato-Regular.ttf
